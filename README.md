@@ -1,8 +1,8 @@
 # Olá! 👋 **Sou _Lucas_ e tenho 23 anos**
 
 
-## Goal:
-- Transformar problemas em soluções, com **_respeito_** e **_ética_**.
+### Goal:
+> Transformar problemas em soluções, com **_respeito_** e **_ética_**.
 
 <!--
 **lucasdegang/lucasdegang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
