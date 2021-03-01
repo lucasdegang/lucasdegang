@@ -7,4 +7,16 @@
 ### Contato 
    - [Linkedin](https://www.linkedin.com/in/lucas-d-5819b7102/)
 
-`git status`
+### Tecnologias
+
+- [x] Profissional
+   - Cobol
+   - Jquery
+   - Javascript
+- [x] Intermediário
+   - React
+- [x] Praticante
+    - Java
+    - Node
+- [x] Iniciante
+    - C#
