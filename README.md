@@ -5,8 +5,6 @@
 ### Aqui compartilho meus estudos e conhecimentos de programação. 💻
 
 ### Contato 
-
-   - <a href="https://www.linkedin.com/in/lucas-d-5819b7102/" target="_blank">linkedin</a>
-
+   - [Linkedin](https://www.linkedin.com/in/lucas-d-5819b7102/)
 
 `git status`
