@@ -2,10 +2,12 @@
 
 ### Seja muito bem vindo(a)! 
 
-### Aqui compartilho meus estudos e conhecimentos de programação. 💻
+### Aqui compartilho meus estudos e conhecimentos de programação. :computer:
 
 ### Contato 
    - [Linkedin](https://www.linkedin.com/in/lucas-d-5819b7102/)
+
+---
 
 ### Tecnologias
 
