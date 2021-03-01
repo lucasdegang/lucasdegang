@@ -14,9 +14,10 @@
    - Jquery
    - Javascript
 - [x] Intermediário
-   - React
+   - Rest API
 - [x] Praticante
     - Java
     - Node
+    - React
 - [x] Iniciante
     - C#
