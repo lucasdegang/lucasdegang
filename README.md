@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ***Lucas degang, 23 anos ***
+- <a href="https://twitter.com/deganglucas" target="_blank">Twitter</a>
+
 
 <!--
 **lucasdegang/lucasdegang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
