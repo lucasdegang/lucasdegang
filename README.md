@@ -1,8 +1,8 @@
-### Hi there 👋
+# Olá! 👋 **Sou _Lucas_ e tenho 23 anos**
 
-***Lucas degang, 23 anos ***
-- <a href="https://twitter.com/deganglucas" target="_blank">Twitter</a>
 
+## Goal:
+- Transformar problemas em soluções, com **_respeito_** e **_ética_**.
 
 <!--
 **lucasdegang/lucasdegang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
