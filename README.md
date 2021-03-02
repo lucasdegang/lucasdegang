@@ -14,28 +14,28 @@
 <table>
    <tbody>
       <tr>
-         <th colspan=4>Technology</th>
+         <th colspan=4>💙</th>
       </tr>
       <tr>
-         <td>Professional</td>
+         <td><b>Professional</b></td>
          <td>Cobol</td>
          <td>JQuery</td>
          <td>Javascript</td>
       </tr>
       <tr>
-         <td>Intermediate</td>
+         <td><b>Intermediate</b></td>
          <td>Rest API</td>
-         <td>&nbsp</td>
+         <td>HTML/ CSS</td>
          <td>&nbsp</td>
       </tr>
       <tr>
-         <td>Praticante</td>
+         <td><b>Practitioner</b></td>
          <td>Java</td>
          <td>Node</td>
          <td>React</td>
       </tr>
       <tr>
-         <td>Iniciante</td>
+         <td><b>Beginner</b></td>
          <td>C#</td>
          <td>&nbsp</td>
          <td>&nbsp</td>
