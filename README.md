@@ -7,6 +7,9 @@
 ### Contact 
    - [Linkedin](https://www.linkedin.com/in/lucas-d-5819b7102/)
 
+
+![GitHub followers](https://img.shields.io/github/followers/lucasdegang?label=lucasdegang&style=social)
+
 ---
 
 ### Tech
