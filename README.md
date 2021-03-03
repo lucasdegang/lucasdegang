@@ -1,6 +1,6 @@
-# This is a test! 👋 **I am _Lucas_ and I am 23 yo**
+# This is a test! **I am _Lucas_ and I am 23 yo**
 
-### Be welcome! 
+### Be welcome! 👋
 
 ### Sharing studies and knowledgement of Technology. :computer:
 
@@ -9,6 +9,10 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/lucasdegang?label=lucasdegang&style=social)
+
+![Lucas Degang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdegang&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact)](https://github.com/lucasdegang/github-readme-stats)
 
 ---
 
