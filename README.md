@@ -2,8 +2,6 @@
 
 ### Welcome! 👋
 
-![Welcome](/fotoPerfil.png?raw=true)
-
 ### Sharing studies and knowledgement of Technology. :computer:
 
 ### Contact 
