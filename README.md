@@ -5,7 +5,7 @@
 ### Sharing studies and knowledgement of Technology. :computer:
 
 ### Contact 
-<p>
+<p nowrap>
    <a href="https://www.linkedin.com/in/lucas-d-5819b7102/">
       <img height="20px" src="/linkedin-icon.svg">
    </a>
