@@ -24,7 +24,7 @@
    </a>
    <a>&nbsp;</a>
   <a href="https://github.com/lucasdegang/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact&theme=react" />
   </a>
 </p>
 <hr>
