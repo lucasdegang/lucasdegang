@@ -23,8 +23,6 @@
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
   </a>
 </p>
-
-<br>
 <hr>
 
 ### Tech
