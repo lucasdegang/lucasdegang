@@ -10,11 +10,24 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/lucasdegang?label=lucasdegang&style=social)
 
+![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/college?label=College%20repo%20total%20lines)
+![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/CadProd_React?label=CadProd_React%20repo%20total%20lines)
+![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/ProjetoCalc?label=ProjetoCalc%20repo%20total%20lines)
+
 ![Lucas Degang's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdegang&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact)](https://github.com/lucasdegang/github-readme-stats)
 
----
+
+  <div>
+     <img src="https://github-readme-stats.vercel.app/api?username=lucasdegang&show_icons=true&theme=react" />
+   </div>
+  <div style="margin-left: 10 px;" href="https://github.com/lucasdegang/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
+  </div>
+
+<br>
+<hr>
 
 ### Tech
 
