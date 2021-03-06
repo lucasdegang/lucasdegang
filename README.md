@@ -14,13 +14,14 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/CadProd_React?label=CadProd_React%20repo%20total%20lines)
 ![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/ProjetoCalc?label=ProjetoCalc%20repo%20total%20lines)
 
-
-  <div>
+<div>
+  <div align="left">
      <img src="https://github-readme-stats.vercel.app/api?username=lucasdegang&show_icons=true&theme=react" />
    </div>
-  <div href="https://github.com/lucasdegang/github-readme-stats">
+  <div align="left" href="https://github.com/lucasdegang/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
   </div>
+</div>
 
 <br>
 <hr>
