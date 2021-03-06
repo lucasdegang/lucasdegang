@@ -5,9 +5,13 @@
 ### Sharing studies and knowledgement of Technology. :computer:
 
 ### Contact 
-   - [Linkedin](https://www.linkedin.com/in/lucas-d-5819b7102/)
-
-
+<p>
+   <a href="https://www.linkedin.com/in/lucas-d-5819b7102/">
+      <img height="20px" src="/linkedin-icon.svg">
+   </a>
+</p>
+   
+   
 ![GitHub followers](https://img.shields.io/github/followers/lucasdegang?label=lucasdegang&style=social)
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/college?label=College%20repo%20total%20lines)
