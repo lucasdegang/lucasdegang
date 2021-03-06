@@ -19,7 +19,7 @@
      <img src="https://github-readme-stats.vercel.app/api?username=lucasdegang&show_icons=true&theme=react" />
    </div>
   <div href="https://github.com/lucasdegang/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
   </div>
 
 <br>
