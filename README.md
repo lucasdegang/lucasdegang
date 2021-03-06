@@ -2,7 +2,7 @@
 
 ### Welcome! 👋
 
-### Sharing studies and knowledgement of Technology. :computer:
+### Turn the problems in solutions with respect and ethic. :dart:
 
 ### Contact 
 <p>
