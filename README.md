@@ -15,11 +15,11 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/ProjetoCalc?label=ProjetoCalc%20repo%20total%20lines)
 
 <p valign=center>
-  <a>
+  <a href="https://github.com/lucasdegang/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api?username=lucasdegang&show_icons=true&theme=react" />
    </a>
    <a>&nbsp;</a>
-  <a align="left" href="https://github.com/lucasdegang/github-readme-stats">
+  <a href="https://github.com/lucasdegang/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdegang&layout=compact" />
   </a>
 </p>
