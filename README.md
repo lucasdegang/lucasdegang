@@ -1,4 +1,4 @@
-# console.log("**I am _Lucas_ and I am 23 yo**") 
+# console.log("**Hello! I am _Lucas_ and I am 23 yo**") 
 
 ### Welcome! 👋
 
