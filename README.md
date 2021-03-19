@@ -6,7 +6,7 @@
 
 ### Contact 
 <p>
-   <a href="https://www.linkedin.com/in/lucas-d-5819b7102/">
+   <a href="https://www.linkedin.com/in/lucas-degang//">
       <img height="20px" src="/linkedin-icon.svg">
    </a>
 </p>
