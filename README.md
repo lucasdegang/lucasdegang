@@ -34,7 +34,7 @@
 <table>
    <tbody>
       <tr>
-         <th colspan=4>💙</th>
+         <th colspan=5>💙</th>
       </tr>
       <tr>
          <td><b>Professional</b></td>
