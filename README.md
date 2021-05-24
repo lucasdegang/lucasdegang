@@ -16,7 +16,7 @@
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/college?label=College%20repo%20total%20lines)
 ![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/CadProd_React?label=CadProd_React%20repo%20total%20lines)
-![Lines of code](https://img.shields.io/tokei/lines/github/lucasdegang/ProjetoCalc?label=ProjetoCalc%20repo%20total%20lines)
+<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/lucasdegang/aspNetCore?label=aspNetCore">
 
 <p valign=center>
   <a href="https://github.com/lucasdegang/github-readme-stats">
